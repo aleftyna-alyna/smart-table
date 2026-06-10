@@ -1,5 +1,3 @@
-// @todo: #4.3 — настроить компаратор
-
 export function initFiltering(elements) {
   const updateIndexes = (elements, indexes) => {
     Object.keys(indexes).forEach((elementName) => {
